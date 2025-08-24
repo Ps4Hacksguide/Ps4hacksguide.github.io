@@ -52,7 +52,7 @@ sidebar: false
     </tr>
     <tr>
       <td style="text-align: center; font-weight: bold;">9.0</td>
-      <td style="text-align: center; font-weight: bold;">9.60</td>
+      <td style="text-align: center; font-weight: bold;">9.00</td>
       <td style="text-align: center; font-weight: bold;"><a href="using-webkit90.html">使用webkit(9.0)</a></td>
     </tr>
     <tr>
