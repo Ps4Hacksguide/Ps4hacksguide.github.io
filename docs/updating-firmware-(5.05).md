@@ -1,5 +1,5 @@
 ---
-next: false
+sidebar: false
 ---
 
 # 升级系统至 (5.05)
