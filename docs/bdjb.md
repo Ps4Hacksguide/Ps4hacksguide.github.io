@@ -1,5 +1,5 @@
 ---
-next: true
+sidebar: false
 ---
 
 # 使用BD-JB (all)
