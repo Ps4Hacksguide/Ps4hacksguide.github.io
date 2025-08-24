@@ -15,7 +15,7 @@ sidebar: false
     </div>
     <div class="user">
       <h3>Xziip</h3>
-      <p>xz</p>
+      <p>Thanks to all game funs！</p>
       <a class="social-icon" href="https://twitter.com/Xziipp" target="_blank">
         <i class="fab fa-twitter"></i>
       </a>
